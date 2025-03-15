@@ -1,0 +1,7 @@
+pyaudio
+pyttsx3
+vosk
+opencv-python
+numpy
+tensorflow  # or tflite-runtime for lightweight inference on Raspberry Pi
+# SNPE wrapper libraries
